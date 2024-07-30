@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react'
 
-
 function App() {
   
   const initialTime = 1500; // 10 min
